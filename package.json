@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/antstanley/azure-es-sdk/issues"
   },
-  "homepage": "https://github.com/antstanley/azure-es-sdk#readme"
+  "homepage": "https://github.com/antstanley/azure-es-sdk#readme",
+  "dependencies": {
+    "node-fetch": "^2.1.2"
+  }
 }
