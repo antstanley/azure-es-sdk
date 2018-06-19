@@ -1,0 +1,28 @@
+{
+  "name": "azure-es-sdk",
+  "version": "0.0.1",
+  "description": "An Azure SDK written using ES Modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antstanley/azure-es-sdk.git"
+  },
+  "keywords": [
+    "Azure",
+    "ES6",
+    "ES7",
+    "ES",
+    "Modules",
+    "async",
+    "await"
+  ],
+  "author": "A. Stanley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antstanley/azure-es-sdk/issues"
+  },
+  "homepage": "https://github.com/antstanley/azure-es-sdk#readme"
+}
